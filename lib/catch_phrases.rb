@@ -9,5 +9,8 @@ def toadstool
   puts status
 end
 
+def link
+ message =  
+end
 mario 
 toadstool
