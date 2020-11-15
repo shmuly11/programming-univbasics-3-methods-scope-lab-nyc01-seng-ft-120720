@@ -20,7 +20,7 @@ def all_phrases
   puts link
 end
   
-end
+
 
 mario 
 toadstool
