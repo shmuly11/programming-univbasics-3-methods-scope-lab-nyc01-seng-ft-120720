@@ -10,7 +10,19 @@ def toadstool
 end
 
 def link
- message =  
+ message = "It's Dangerous To Go Alone! Take This."
+ puts message
 end
+
+def all_phrases
+  puts mario
+  puts toadstool
+  puts link
+end
+  
+end
+
 mario 
 toadstool
+link
+all_phrases
